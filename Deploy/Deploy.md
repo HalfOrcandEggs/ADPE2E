@@ -86,8 +86,8 @@ In this section you will use automated deployment and ARM templates to automate 
 
 1. You can deploy all Azure services required in each lab by clicking the **Deploy to Azure** button below. 
 
-    <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FfabragaMS%2FADPE2E%2Fmaster%2FDeploy%2Fazuredeploy.json" target="_blank">
-    <img src="https://github.com/fabragaMS/ADPE2E/raw/master/Deploy/Media/deploytoazure.png"/>    
+    <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FHalfOrcandEggs%2FADPE2E%2Fmaster%2FDeploy%2Fazuredeploy.json" target="_blank">
+    <img src="https://github.com/HalfOrcandEggs/ADPE2E/raw/master/Deploy/Media/deploytoazure.png"/>    
 </a>
 
 2. You will be directed to the Azure portal to deploy the ADPE2E ARM template from this repository. On the **Custom deployment** blade, enter the following details:
