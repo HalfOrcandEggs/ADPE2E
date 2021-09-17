@@ -221,8 +221,8 @@
                 "storageProfile": {
                     "imageReference": {
                         "publisher": "MicrosoftWindowsDesktop",
-                        "offer": "Windows-10",
-                        "sku": "rs5-pro",
+                        "offer": "Windows10",
+                        "sku": "rs5-pron",
                         "version": "latest"
                     },
                     "osDisk": {
